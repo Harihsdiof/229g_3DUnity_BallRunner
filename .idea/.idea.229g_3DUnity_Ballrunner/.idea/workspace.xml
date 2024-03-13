@@ -8,7 +8,8 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/RestartButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/RestartByRKey.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SmoothCamera.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -82,7 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1710332417519</updated>
       <workItem from="1710332420933" duration="304000" />
-      <workItem from="1710332767145" duration="1086000" />
+      <workItem from="1710332767145" duration="2279000" />
     </task>
     <servers />
   </component>
