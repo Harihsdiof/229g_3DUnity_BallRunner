@@ -732,7 +732,7 @@ Transform:
   m_GameObject: {fileID: 182619540}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 10.67, y: 2.4, z: -0.12}
+  m_LocalPosition: {x: 10.25, y: 2.4, z: -0.12}
   m_LocalScale: {x: 0.45026335, y: 6.0238, z: 20}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2841,7 +2841,6 @@ GameObject:
   - component: {fileID: 1479052242}
   - component: {fileID: 1479052241}
   - component: {fileID: 1479052243}
-  - component: {fileID: 1479052244}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -3037,18 +3036,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   strTag: Player
---- !u!114 &1479052244
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1479052233}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 04e487c82ab400d43bc572aaf1943156, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1515143059
 GameObject:
   m_ObjectHideFlags: 0
@@ -4103,6 +4090,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   winScreenUI: {fileID: 1159556856}
+  delay: 5
 --- !u!1 &2135716530
 GameObject:
   m_ObjectHideFlags: 0
@@ -4202,8 +4190,8 @@ Transform:
   m_GameObject: {fileID: 2135716530}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.27, y: 2.4, z: -10.46}
-  m_LocalScale: {x: 20.74652, y: 6.0238, z: 0.65398896}
+  m_LocalPosition: {x: -0.11, y: 2.4, z: -10.33}
+  m_LocalScale: {x: 21.092808, y: 6.0238, z: 0.65398896}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
