@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class Blockcrash : MonoBehaviour
+public class BlockCrash : MonoBehaviour
 {
     [SerializeField] 
     string strTag;

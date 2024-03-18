@@ -5,7 +5,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using Input = UnityEngine.Windows.Input;
 
-public class Resetlevel : MonoBehaviour
+public class ResetLevel : MonoBehaviour
 {
     private void OnCollisionEnter(Collision collision)
     {
