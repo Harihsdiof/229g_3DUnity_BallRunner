@@ -626,13 +626,26 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: 'Member
+  m_Text: '
+
+
+
+    Member
 
     1.1650705229 Harith Payakkasung Sec 229G No.19 (Programming)
 
     2.
+    1650705633 Chunlachak Tantidolthanes Sec 229G No. 22 (GameDesign)
 
-    3.'
+    3. 1650707175
+    Paranyoo Nijjarungul Sec 229G No. 24
+
+    Reference Asset
+
+    Stylized Coin
+    by BarracudaByte
+
+    Flag by Guillermo T'
 --- !u!222 &1062171298
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -653,7 +666,7 @@ GameObject:
   - component: {fileID: 1137970135}
   - component: {fileID: 1137970134}
   m_Layer: 5
-  m_Name: r
+  m_Name: Sceen
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
